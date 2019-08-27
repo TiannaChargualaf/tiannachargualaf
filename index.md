@@ -1,4 +1,6 @@
 ## Welcome to GitHub Pages
+welcome to Tianna's home page
+This is going to by my personal website all about me and my life.
 
 You can use the [editor on GitHub](https://github.com/TiannaChargualaf/TiannaC.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
