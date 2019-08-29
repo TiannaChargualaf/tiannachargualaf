@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
-welcome to Tianna's home page
+## Welcome to Tianna Chargualaf's website
+homepage
 This is going to by my personal website all about me and my life.
 
-You can use the [editor on GitHub](https://github.com/TiannaChargualaf/TiannaC.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+You can use the [editor on GitHub](https://github.com/tiannachargualaf/tiannac.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
