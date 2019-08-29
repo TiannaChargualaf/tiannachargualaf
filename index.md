@@ -1,14 +1,14 @@
 ## Welcome to Tianna Chargualaf's website
 homepage
 This is going to by my personal website all about me and my life.
-
+/
 You can use the [editor on GitHub](https://github.com/tiannachargualaf/tiannac.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### My life
+### Markdown
 
-I wouldnt say theres anything really different about my life opposed to others. I used to live in a pretty big house but it was getting too expensive for my parents to keep paying for so we moved out. my dad went his way and my mom went hers. yes they're divorced and they were living in the same house for about five years because my mom was trying to help my dad get the money that he needed to get a new place.
+
 
 ```markdown
 Syntax highlighted code block
