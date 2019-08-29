@@ -6,9 +6,9 @@ You can use the [editor on GitHub](https://github.com/tiannachargualaf/tiannac.g
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### My life
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I wouldnt say theres anything really different about my life opposed to others. I used to live in a pretty big house but it was getting too expensive for my parents to keep paying for so we moved out. my dad went his way and my mom went hers. yes they're divorced and they were living in the same house for about five years because my mom was trying to help my dad get the money that he needed to get a new place.
 
 ```markdown
 Syntax highlighted code block
