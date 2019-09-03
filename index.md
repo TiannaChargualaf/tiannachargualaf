@@ -2,7 +2,7 @@
 This is going to by my personal website all about my life. My family, friends, hobbies, sports, etc.
 
 ### My family
-i have a family of seven, i have four sisters and one brother, Ashlynn being the oldest sister which is 20 years old, Jaelynn being the next which is 19, Kianna is actually my twin sister and she is 14, shes 5 minutes older, Bethany is my little sister, shes 13, and Chantz, the youngest brother, he is 11
+i have a family of seven, i have four sisters and one brother, Ashlynn being the oldest sister which is 20 years old, Jaelynn being the next which is 19, Kianna is actually my twin sister and she is 14, shes 5 minutes older, Bethany is my little sister, shes 13, and Chantz, the youngest brother, he is 11. My parents are actually divorced and they live in seperate homes, Ashlynn and Jaelynn live with my dad, because they're not on the best terms with my mom, and me, kianna, bethany, and Chantz rotate back and forth, staying at my dads Monday, Tuesday, Wednesday, and Thursday then going back to my moms Thursday night and staying Friday, Saturday, and Sunday. 
 
 
 
