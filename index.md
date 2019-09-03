@@ -7,7 +7,7 @@ My full name is Tianna Kamia Chargualaf, my family calls me Kamia and my friends
 ## My Family
  I have 4 sisters, Ashlynn who is 21 years old, Jaelynn who is 20 years old, Kianna is actually my identical twin sister who is 14 but five minutes older than me, Bethany is the youngest sister who is 13, and last but not least, Chantz, the youngest of all of us who is 11 years old. My parents are actually Divorced being together for about 22 years or so. They live is seperate places after living together after divorce for about 2 years. Me and my three siblings closer to my age rotate alternate, spending the weekend wirth my mom and the week with my dad. my two older sisters stay with my dad and so does my dog Bear.
  
- # Hobbies/sports
+ ## Hobbies/sports
  I've done a coupke sports in the past, when i was about 8 or 9 my dad wanted me to play soccer so i did that for about two years but i told him that it wasn't the sport for me so he put me in Karate and we were in that for about 9 months and we were getting promoted to the next belt fast. eventually my dad thought it was too easy and plus he wanted a sport that we could take to highschool and possibly after and that was Wrestling. i wasn't so sure about it at first because thats a really hard sport to get good at but he forced me so i had to. i tried it and i actually got pretty good, i was put on varsity my freshman year with a winning record. so i was super proud of myself 
 
 
