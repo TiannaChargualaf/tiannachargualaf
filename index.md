@@ -1,12 +1,8 @@
-## Welcome to Tianna Chargualaf's website
-homepage
-This is going to by my personal website all about me and my life.
-/
-You can use the [editor on GitHub](https://github.com/tiannachargualaf/tiannac.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## Welcome to my website
+This is going to by my personal website all about my life. My family, friends, hobbies, sports, etc.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+### My family
+i have a family of seven, i have four sisters and one brother, Ashlynn being the oldest sister which is 20 years old, Jaelynn being the next which is 19, Kianna is actually my twin sister and she is 14, shes 5 minutes older, Bethany is my little sister, shes 13, and Chantz, the youngest brother, he is 11
 
 
 
