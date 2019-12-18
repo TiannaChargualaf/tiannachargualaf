@@ -17,3 +17,6 @@ As i said before my name is Tianna Chargualaf my full name is Tianna Kamia Charg
  I live with my 5 siblings, Ashlynn, Jaelynn, Kianna, Bethany, Chantz, and you can't forget about my dog, Bear. we've lived in Hawaii our whole lives. My dad comes from Guam and my mom comes from Canada. me, Kianna, Bethany, and Chantz (the younger siblings) alternate between my two parents because they're divorced, they've been divorced for over 5 years now, my two older sisters stay with my dad and just visit my mom because they've had some drama in the past. 
  
  **THATS ALL, ENJOY MY WEBSITE!!**
+ 
+ **Other work**
+ https://scratch.mit.edu/projects/329920975/
